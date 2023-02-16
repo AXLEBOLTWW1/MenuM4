@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CatOrDogM4</string>
+    <string name="porody">Показать породы</string>
+    <string name="vopros">Кошки или собаки?</string>
+    <string-array name="Cat0r0og">
+        <item>Кошки</item>
+        <item>Собаки</item>
+    </string-array>
+</resources>
